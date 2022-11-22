@@ -1,0 +1,3 @@
+This is a text.
+It is for a git workshop.
+
